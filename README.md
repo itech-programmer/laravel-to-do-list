@@ -40,6 +40,6 @@
 
 ### 1️⃣ Клонировать репозиторий
 ```bash
-git clone <repository_url>
-cd <project_folder>
+git clone https://github.com/itech-programmer/laravel-to-do-list.git
+cd laravel-to-do-list
 make start
